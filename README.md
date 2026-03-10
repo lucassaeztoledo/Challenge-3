@@ -1,4 +1,4 @@
-##**Challenge 3: Procesamiento de datos de TelecomX**
+## **Challenge 3: Procesamiento de datos de TelecomX**
 
 Este es mi tercer desafío aprendiendo ciencia de datos. En este proyecto, me enfoqué en conectar Python con una fuente de datos externa en internet, descargar la información y convertirla en una tabla ordenada para poder analizarla.
 
